@@ -1,2 +1,1 @@
-# Hello-App
-Hello App
+# hello-app
